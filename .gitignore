@@ -1,0 +1,7 @@
+*.txt
+.DS_Store
+*.db
+*.lock
+log/
+*.log
+*.pid
